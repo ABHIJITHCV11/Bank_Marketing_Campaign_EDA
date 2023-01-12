@@ -74,7 +74,7 @@ the amoun t of loan , lending (too risk y applican ts) at a higher in terest rat
 ensure that the consumers capable of repaying the loan are not re jec ted . Iden tification of 
 such applican ts using EDA is the aim of this case study.
 
-## 6. overall approach of the analysis
+## 6. Overall approach of the analysis
 The files are captured , understood , prepared for analysis (cleaned , processed) and
 analyses via different methods (statistical summaries and plotting). Then some conclusions
 are drawn based on the results.
