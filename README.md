@@ -1,9 +1,13 @@
 
 # Credit EDA Assignment
 
-This case study aims to identify patterns which 
-indicate if a client has difficulty paying their 
-installments
+This case study aims to identify patterns which indicate if a client has difficulty paying their installments
+
+[Bank+Marketing+Campaign_EDA-blank+notebook.ipynb](https://github.com/ABHIJITHCV11/Bank_Marketing_Campaign_EDA/blob/master/Bank%2BMarketing%2BCampaign_EDA-blank%2Bnotebook%20(1).ipynb) *Contains the python code.*
+
+[Presentation 4.pdf](https://github.com/ABHIJITHCV11/Bank_Marketing_Campaign_EDA/blob/master/Presentation%204.pdf) *Contains Overall approach of the analysis,key findings and conclusions.*
+ 
+
 
 ## 1. Problem statement
 The loan providing companies finds it hard to give loans to the people due to their 
@@ -59,11 +63,7 @@ risk of the client he received worse pricing which he did not want.
 1. 'application_data.csv'  contains all the information of the client at the time of application.
 The data is about whether a client has payment difficulties.
 
- 
-
 2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
-
- 
 
 3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
 
@@ -79,5 +79,6 @@ The files are captured , understood , prepared for analysis (cleaned , processed
 analyses via different methods (statistical summaries and plotting). Then some conclusions
 are drawn based on the results.
 
-Bank+Marketing+Campaign_EDA-blank+notebook (1).ipynb - Contains the python code
-Presentation 4.pdf  - Contains Overall approach of the analysis,key findings and conclusion.
+[Bank+Marketing+Campaign_EDA-blank+notebook.ipynb](https://github.com/ABHIJITHCV11/Bank_Marketing_Campaign_EDA/blob/master/Bank%2BMarketing%2BCampaign_EDA-blank%2Bnotebook%20(1).ipynb) *Contains the python code.*
+
+[Presentation 4.pdf](https://github.com/ABHIJITHCV11/Bank_Marketing_Campaign_EDA/blob/master/Presentation%204.pdf) *Contains Overall approach of the analysis,key findings and conclusion.*
